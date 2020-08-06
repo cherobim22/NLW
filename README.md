@@ -4,6 +4,7 @@ Next Level Week - #NLW 🚀 é uma experiência online com muito conteúdo prát
 
 
 ```sh
+Dependencies
   $ npm install
   
 Chocolatey
